@@ -3,7 +3,7 @@
 <div align="center">
 **An AI-powered career guidance chatbot that provides personalized career recommendations, skill roadmaps, and location-based academic suggestions — built for students seeking structured and personalized career guidance.**
 
-🌐 **Live Demo:** Coming Soon
+🌐 **Live Demo:** https://adaptive-career-mentor-ai.onrender.com
 </div>
 
 ---
