@@ -1,0 +1,77 @@
+{
+  "city": "Pune",
+  "state": "Maharashtra",
+  "market_summary": "Pune is India's leading IT and education hub with 5000+ IT jobs/yr, 100+ engineering colleges, and a rapidly growing startup ecosystem. The city hosts HQ/offices of Infosys, TCS, Wipro, Persistent Systems, and many multinational R&D centers.",
+  "institutions": {
+    "technology": [
+      {"name": "PICT (Pune Institute of Computer Technology)", "type": "College", "focus": "Computer Engineering, IT", "rating": 4.5, "url": "https://pict.edu"},
+      {"name": "COEP Technological University", "type": "College", "focus": "CS, AI/ML, Electronics", "rating": 4.7, "url": "https://coep.org.in"},
+      {"name": "VIT Pune", "type": "College", "focus": "CS, Data Science", "rating": 4.2, "url": "https://vit.edu"},
+      {"name": "JSPM JSCOE (Jayawantrao Sawant College)", "type": "College", "focus": "MCA, BE Computer", "rating": 4.0, "url": "#"},
+      {"name": "DataMites Pune", "type": "Training Institute", "focus": "Data Science, AI/ML", "rating": 4.3, "note": "Certification programs from ₹35k; ₹65k-off seasonal offers", "url": "#"},
+      {"name": "Symbiosis Institute of Technology", "type": "College", "focus": "CS, AI, Robotics", "rating": 4.4, "url": "https://sit.ac.in"},
+      {"name": "CDAC Pune (Centre for Development of Advanced Computing)", "type": "Training Institute", "focus": "PG-DAC, PG-DBDA, PG-DMC", "rating": 4.6, "note": "Government certified; industry-recognized diplomas", "url": "https://cdac.in"}
+    ],
+    "healthcare": [
+      {"name": "SMART Academy Pune", "type": "Training Institute", "focus": "GDA (General Duty Assistant), Phlebotomy", "rating": 4.1, "note": "Short-term healthcare certifications", "url": "#"},
+      {"name": "Sancheti Hospital Institute of Orthopaedics", "type": "Hospital/Training", "focus": "Physiotherapy, Orthopaedics", "rating": 4.5, "url": "#"},
+      {"name": "Symbiosis School of Nursing", "type": "College", "focus": "BSc Nursing, GNM", "rating": 4.3, "url": "#"},
+      {"name": "Bharati Vidyapeeth Medical College", "type": "College", "focus": "MBBS, Nursing, Allied Health", "rating": 4.4, "url": "#"},
+      {"name": "KEM Hospital Pune", "type": "Hospital/Training", "focus": "Clinical training, Research", "rating": 4.6, "url": "#"}
+    ],
+    "business": [
+      {"name": "Symbiosis Institute of Business Management (SIBM)", "type": "College", "focus": "MBA, PGDM", "rating": 4.7, "url": "#"},
+      {"name": "FLAME University", "type": "College", "focus": "Liberal Arts, MBA, Marketing", "rating": 4.3, "url": "#"},
+      {"name": "MIT School of Management (MITSOM)", "type": "College", "focus": "MBA, Digital Marketing", "rating": 4.1, "url": "#"},
+      {"name": "IIM Kozhikode — Pune Satellite", "type": "Executive Ed", "focus": "Executive MBA, Leadership programs", "rating": 4.8, "url": "#"},
+      {"name": "ISB Pune campus (proposed)", "type": "College", "focus": "PGP, Executive education", "rating": 4.9, "url": "#"}
+    ],
+    "creative": [
+      {"name": "MIT Institute of Design (MITID)", "type": "College", "focus": "Product Design, UX, Animation", "rating": 4.5, "url": "#"},
+      {"name": "Symbiosis School of Design", "type": "College", "focus": "Communication Design, UX/UI", "rating": 4.3, "url": "#"},
+      {"name": "DSK International Campus", "type": "College", "focus": "Animation, Visual Effects, Game Design", "rating": 4.1, "url": "#"},
+      {"name": "Arena Animation Pune", "type": "Training Institute", "focus": "Graphic Design, Web Design, VFX", "rating": 3.8, "url": "#"},
+      {"name": "MAAC Pune", "type": "Training Institute", "focus": "Animation, Game Development", "rating": 3.9, "url": "#"}
+    ],
+    "engineering": [
+      {"name": "COEP Technological University", "type": "College", "focus": "Civil, Mechanical, Electrical", "rating": 4.7, "url": "https://coep.org.in"},
+      {"name": "PCCOE (Pimpri Chinchwad College of Engineering)", "type": "College", "focus": "Civil, Mechanical, E&TC", "rating": 4.0, "url": "#"},
+      {"name": "MIT Pune", "type": "College", "focus": "All engineering branches", "rating": 4.2, "url": "#"},
+      {"name": "Cummins College of Engineering for Women", "type": "College", "focus": "CS, IT, Electronics", "rating": 4.4, "url": "#"}
+    ],
+    "science": [
+      {"name": "Savitribai Phule Pune University (SPPU)", "type": "University", "focus": "Pure Sciences, Research", "rating": 4.5, "url": "http://unipune.ac.in"},
+      {"name": "IISER Pune", "type": "Research Institute", "focus": "Physics, Chemistry, Biology, Math", "rating": 4.9, "url": "https://iiserpune.ac.in"},
+      {"name": "NCL (National Chemical Laboratory)", "type": "Research Institute", "focus": "Chemistry, Biochemistry, Biotech", "rating": 4.8, "url": "#"},
+      {"name": "IUCAA (Inter-University Centre for Astronomy)", "type": "Research Institute", "focus": "Astrophysics, Cosmology", "rating": 4.9, "url": "#"},
+      {"name": "Fergusson College", "type": "College", "focus": "BSc, MSc — Sciences", "rating": 4.2, "url": "#"}
+    ],
+    "creative_technology": [
+      {"name": "DSK International Campus", "type": "College", "focus": "VFX, Animation, Game Design, AR/VR", "rating": 4.1, "url": "#"},
+      {"name": "MIT Institute of Design (MITID)", "type": "College", "focus": "Interaction Design, Immersive Media", "rating": 4.5, "url": "#"},
+      {"name": "MAAC Pune", "type": "Training Institute", "focus": "3D Animation, VR/AR Development", "rating": 3.9, "url": "#"},
+      {"name": "Arena Animation Pune", "type": "Training Institute", "focus": "VFX, Motion Graphics, XR Basics", "rating": 3.8, "url": "#"},
+      {"name": "COEP — VR/AR Research Lab", "type": "Research Lab", "focus": "Spatial Computing, HCI Research", "rating": 4.6, "url": "#"}
+    ]
+  },
+  "career_locations": {
+    "software_engineer": {"institutions": ["PICT", "COEP", "CDAC Pune", "Symbiosis IT"], "companies": ["Infosys", "TCS", "Persistent Systems", "Zensar", "KPIT"], "jobs_per_year": 5000, "avg_entry_salary": "₹4.5L"},
+    "data_scientist": {"institutions": ["DataMites Pune", "CDAC PG-DBDA", "SPPU"], "companies": ["Accenture AI", "Mu Sigma", "Fractal Analytics"], "jobs_per_year": 1200, "avg_entry_salary": "₹6L"},
+    "ux_designer": {"institutions": ["MIT Institute of Design", "Symbiosis School of Design"], "companies": ["ThoughtWorks", "Persistent", "Startups on SB Road"], "jobs_per_year": 600, "avg_entry_salary": "₹4L"},
+    "product_manager": {"institutions": ["SIBM", "FLAME University"], "companies": ["Druva", "Icertis", "Pubmatic"], "jobs_per_year": 400, "avg_entry_salary": "₹8L"},
+    "cybersecurity_analyst": {"institutions": ["CDAC Pune", "PICT", "EC-Council Training"], "companies": ["Quick Heal", "Cybage", "TCS Cyber Security"], "jobs_per_year": 800, "avg_entry_salary": "₹5L"},
+    "ml_engineer": {"institutions": ["COEP AI Lab", "DataMites", "CDAC PG-DAC"], "companies": ["NVIDIA Pune", "Persistent AI", "DeepTek"], "jobs_per_year": 700, "avg_entry_salary": "₹7L"},
+    "business_analyst": {"institutions": ["SIBM", "MIT SOM", "SCMHRD"], "companies": ["Cognizant", "Capgemini", "Wipro"], "jobs_per_year": 1500, "avg_entry_salary": "₹4L"},
+    "cloud_architect": {"institutions": ["CDAC", "PICT", "AWS re:Start partners"], "companies": ["Amazon (Pune)", "Microsoft IDC", "Veritas"], "jobs_per_year": 900, "avg_entry_salary": "₹8L"},
+    "digital_marketing": {"institutions": ["FLAME", "MIT SOM", "Digital Vidya Pune"], "companies": ["Startups", "WPP agencies", "Local businesses"], "jobs_per_year": 2000, "avg_entry_salary": "₹3L"},
+    "research_scientist": {"institutions": ["IISER Pune", "NCL", "SPPU"], "companies": ["Serum Institute", "Bharat Biotech (collab)", "CSIR labs"], "jobs_per_year": 200, "avg_entry_salary": "₹5L"},
+    "nurse_healthcare": {"institutions": ["SMART Academy", "Sancheti", "Symbiosis Nursing", "B.J. Medical"], "companies": ["Sahyadri Hospitals", "Ruby Hall", "KEM Hospital"], "jobs_per_year": 3000, "avg_entry_salary": "₹2.5L"},
+    "management_consultant": {"institutions": ["SIBM", "FLAME", "ISB Pune"], "companies": ["Deloitte", "EY", "KPMG Pune"], "jobs_per_year": 300, "avg_entry_salary": "₹6L"},
+    "game_developer": {"institutions": ["DSK Intl Campus", "MAAC Pune"], "companies": ["Ubisoft Pune", "Nodding Heads", "Indie studios"], "jobs_per_year": 150, "avg_entry_salary": "₹4L"},
+    "biotech_researcher": {"institutions": ["NCL", "SPPU Biotech", "Symbiosis Biotech"], "companies": ["Serum Institute", "Praj Industries", "Lupin"], "jobs_per_year": 400, "avg_entry_salary": "₹4L"},
+    "content_strategist": {"institutions": ["FLAME", "Symbiosis Media", "Digital Vidya"], "companies": ["Agencies", "Startups", "IT companies"], "jobs_per_year": 800, "avg_entry_salary": "₹3L"},
+    "civil_engineer": {"institutions": ["COEP", "MIT Pune", "PCCOE"], "companies": ["L&T", "Shapoorji Pallonji", "PMC projects"], "jobs_per_year": 1000, "avg_entry_salary": "₹3.5L"},
+    "arvr_developer": {"institutions": ["DSK Intl Campus", "MITID", "COEP VR Lab"], "companies": ["Ubisoft Pune", "Infosys XR Lab", "VR startups"], "jobs_per_year": 120, "avg_entry_salary": "₹5L"},
+    "creative_technologist": {"institutions": ["MITID", "DSK Campus", "Arena Animation"], "companies": ["Creative agencies", "XR startups", "Event tech firms"], "jobs_per_year": 80, "avg_entry_salary": "₹4L"}
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "total_users": 6,
+  "career_counts": {
+    "data_scientist": 3,
+    "ml_engineer": 2,
+    "cloud_architect": 2,
+    "cybersecurity_analyst": 2,
+    "management_consultant": 2,
+    "devops_engineer": 1,
+    "biotech_researcher": 2,
+    "software_engineer": 1,
+    "research_scientist": 2,
+    "civil_engineer": 1,
+    "creative_technologist": 1,
+    "game_developer": 1,
+    "arvr_developer": 1,
+    "ux_designer": 1,
+    "content_strategist": 1,
+    "nurse_healthcare": 1,
+    "digital_marketing": 1,
+    "business_analyst": 1,
+    "product_manager": 1
+  },
+  "common_gaps": {},
+  "avg_scores": {
+    "interest": 0.4,
+    "aptitude": 0.6291,
+    "skills": 0.6
+  },
+  "stage_dist": {
+    "in_college": 3,
+    "graduate": 1
+  },
+  "avg_riasec": {
+    "R": 2.92,
+    "I": 4.28,
+    "A": 4.02,
+    "S": 1.68,
+    "E": 3.5,
+    "C": 2.1
+  }
+}

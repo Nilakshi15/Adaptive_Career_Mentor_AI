@@ -1,0 +1,1869 @@
+{
+  "careers": [
+    {
+      "id": "software_engineer",
+      "title": "Software Engineer",
+      "description": "Design, develop, and maintain software systems. Solve complex engineering challenges across the full stack.",
+      "category": "technology",
+      "riasec_req": {
+        "R": 7,
+        "I": 8,
+        "A": 4,
+        "S": 3,
+        "E": 4,
+        "C": 6
+      },
+      "big5_req": {
+        "O": 7,
+        "C": 8,
+        "E": 4,
+        "A": 5,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 9,
+        "creative": 5,
+        "verbal": 5
+      },
+      "stage_fit": {
+        "after_10th": 3,
+        "after_12th_sci": 7,
+        "after_12th_com": 3,
+        "after_12th_arts": 2,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b96L \u2013 \u20b925L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 9,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Programming fundamentals",
+            "HTML/CSS/JS",
+            "Git basics"
+          ],
+          "tools": [
+            "VS Code",
+            "Python",
+            "Git"
+          ],
+          "projects": [
+            "CLI calculator",
+            "Personal portfolio site",
+            "Todo list app"
+          ],
+          "duration": "1\u20133 months",
+          "certs": []
+        },
+        "intermediate": {
+          "skills": [
+            "Data Structures & Algorithms",
+            "REST APIs",
+            "Databases"
+          ],
+          "tools": [
+            "React/Node.js",
+            "Docker",
+            "PostgreSQL"
+          ],
+          "projects": [
+            "URL shortener",
+            "Full-stack e-commerce",
+            "Chat application"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "AWS Cloud Practitioner"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "System Design",
+            "Cloud Architecture",
+            "CI/CD"
+          ],
+          "tools": [
+            "Kubernetes",
+            "Terraform",
+            "Kafka"
+          ],
+          "projects": [
+            "Microservices platform",
+            "Open-source contributions",
+            "AI-powered SaaS tool"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "AWS Solutions Architect",
+            "Google Cloud Professional"
+          ]
+        }
+      },
+      "icon": "\ud83d\udcbb"
+    },
+    {
+      "id": "data_scientist",
+      "title": "Data Scientist",
+      "description": "Extract insights from complex datasets, build predictive models, and drive data-informed decisions.",
+      "category": "technology",
+      "riasec_req": {
+        "R": 5,
+        "I": 9,
+        "A": 6,
+        "S": 3,
+        "E": 4,
+        "C": 5
+      },
+      "big5_req": {
+        "O": 8,
+        "C": 7,
+        "E": 4,
+        "A": 5,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 9,
+        "creative": 6,
+        "verbal": 5
+      },
+      "stage_fit": {
+        "after_10th": 2,
+        "after_12th_sci": 6,
+        "after_12th_com": 3,
+        "after_12th_arts": 2,
+        "in_college": 8,
+        "graduate": 10
+      },
+      "salary_range": "\u20b98L \u2013 \u20b930L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 9,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Python programming",
+            "Statistics fundamentals",
+            "Data manipulation"
+          ],
+          "tools": [
+            "Jupyter Notebook",
+            "Pandas",
+            "NumPy"
+          ],
+          "projects": [
+            "EDA on public datasets",
+            "Weather data analysis",
+            "Survey visualization"
+          ],
+          "duration": "1\u20133 months",
+          "certs": [
+            "Google Data Analytics"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Machine Learning",
+            "Feature Engineering",
+            "SQL"
+          ],
+          "tools": [
+            "scikit-learn",
+            "Tableau",
+            "SQL databases"
+          ],
+          "projects": [
+            "Movie recommender",
+            "Customer churn prediction",
+            "Sentiment analyzer"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "IBM Data Science Professional"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Deep Learning",
+            "NLP",
+            "MLOps"
+          ],
+          "tools": [
+            "TensorFlow/PyTorch",
+            "MLflow",
+            "Spark"
+          ],
+          "projects": [
+            "Real-time fraud detection",
+            "AI RAG chatbot",
+            "Kaggle competition top 10%"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "AWS ML Specialty",
+            "TensorFlow Developer"
+          ]
+        }
+      },
+      "icon": "\ud83d\udcca"
+    },
+    {
+      "id": "ux_designer",
+      "title": "UX/UI Designer",
+      "description": "Craft intuitive, accessible user experiences through research-driven design and iterative prototyping.",
+      "category": "creative",
+      "riasec_req": {
+        "R": 3,
+        "I": 5,
+        "A": 9,
+        "S": 7,
+        "E": 4,
+        "C": 3
+      },
+      "big5_req": {
+        "O": 9,
+        "C": 5,
+        "E": 6,
+        "A": 7,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 4,
+        "creative": 9,
+        "verbal": 6
+      },
+      "stage_fit": {
+        "after_10th": 4,
+        "after_12th_sci": 5,
+        "after_12th_com": 4,
+        "after_12th_arts": 8,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b94L \u2013 \u20b918L",
+      "growth_outlook": "High",
+      "pune_relevance": 7,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Design thinking",
+            "Wireframing",
+            "Color theory"
+          ],
+          "tools": [
+            "Figma",
+            "Canva",
+            "Miro"
+          ],
+          "projects": [
+            "App redesign concept",
+            "Portfolio website mockup",
+            "Mobile UI kit"
+          ],
+          "duration": "1\u20133 months",
+          "certs": [
+            "Google UX Design"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "User research",
+            "Prototyping",
+            "Accessibility"
+          ],
+          "tools": [
+            "Adobe XD",
+            "InVision",
+            "Principle"
+          ],
+          "projects": [
+            "Usability study + redesign",
+            "Design system creation",
+            "SaaS dashboard UI"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "Interaction Design Foundation"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Design leadership",
+            "Advanced animation",
+            "Design ops"
+          ],
+          "tools": [
+            "Framer",
+            "After Effects",
+            "Storybook"
+          ],
+          "projects": [
+            "End-to-end product design",
+            "Design system open-source",
+            "Cross-platform design language"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "Nielsen Norman UX Master"
+          ]
+        }
+      },
+      "icon": "\ud83c\udfa8"
+    },
+    {
+      "id": "product_manager",
+      "title": "Product Manager",
+      "description": "Define product vision, prioritize features, coordinate cross-functional teams, and drive products to market success.",
+      "category": "business",
+      "riasec_req": {
+        "R": 3,
+        "I": 6,
+        "A": 5,
+        "S": 7,
+        "E": 8,
+        "C": 5
+      },
+      "big5_req": {
+        "O": 7,
+        "C": 7,
+        "E": 8,
+        "A": 7,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 7,
+        "creative": 6,
+        "verbal": 8
+      },
+      "stage_fit": {
+        "after_10th": 1,
+        "after_12th_sci": 3,
+        "after_12th_com": 5,
+        "after_12th_arts": 3,
+        "in_college": 7,
+        "graduate": 10
+      },
+      "salary_range": "\u20b98L \u2013 \u20b935L",
+      "growth_outlook": "High",
+      "pune_relevance": 8,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Product thinking",
+            "Market research",
+            "User stories"
+          ],
+          "tools": [
+            "Notion",
+            "Trello",
+            "Google Analytics"
+          ],
+          "projects": [
+            "Feature prioritization doc",
+            "Competitor analysis report",
+            "User persona creation"
+          ],
+          "duration": "1\u20133 months",
+          "certs": [
+            "Product School Micro-cert"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Agile/Scrum",
+            "Roadmap planning",
+            "A/B testing"
+          ],
+          "tools": [
+            "Jira",
+            "Mixpanel",
+            "Amplitude"
+          ],
+          "projects": [
+            "Product roadmap for startup",
+            "Growth experiment design",
+            "PRD writing exercise"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "Certified Scrum Product Owner"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Product strategy",
+            "Stakeholder management",
+            "P&L ownership"
+          ],
+          "tools": [
+            "ProductBoard",
+            "Pendo",
+            "Looker"
+          ],
+          "projects": [
+            "Go-to-market strategy",
+            "Product-led growth model",
+            "Portfolio management"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "Pragmatic Marketing"
+          ]
+        }
+      },
+      "icon": "\ud83d\ude80"
+    },
+    {
+      "id": "cybersecurity_analyst",
+      "title": "Cybersecurity Analyst",
+      "description": "Protect systems and data by identifying vulnerabilities, monitoring threats, and implementing security protocols.",
+      "category": "technology",
+      "riasec_req": {
+        "R": 7,
+        "I": 8,
+        "A": 3,
+        "S": 3,
+        "E": 4,
+        "C": 7
+      },
+      "big5_req": {
+        "O": 6,
+        "C": 9,
+        "E": 3,
+        "A": 4,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 9,
+        "creative": 5,
+        "verbal": 4
+      },
+      "stage_fit": {
+        "after_10th": 2,
+        "after_12th_sci": 6,
+        "after_12th_com": 2,
+        "after_12th_arts": 1,
+        "in_college": 8,
+        "graduate": 10
+      },
+      "salary_range": "\u20b95L \u2013 \u20b922L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 8,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Networking fundamentals",
+            "Linux basics",
+            "Security concepts"
+          ],
+          "tools": [
+            "Wireshark",
+            "Kali Linux",
+            "Nmap"
+          ],
+          "projects": [
+            "Home lab setup",
+            "Network scanner tool",
+            "Security audit report"
+          ],
+          "duration": "1\u20133 months",
+          "certs": [
+            "CompTIA Security+"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Penetration testing",
+            "Incident response",
+            "SIEM"
+          ],
+          "tools": [
+            "Metasploit",
+            "Burp Suite",
+            "Splunk"
+          ],
+          "projects": [
+            "CTF competition",
+            "Vulnerability assessment",
+            "Phishing simulation"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "CEH (Certified Ethical Hacker)"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Threat hunting",
+            "Cloud security",
+            "Red teaming"
+          ],
+          "tools": [
+            "Cobalt Strike",
+            "AWS Security Hub",
+            "YARA"
+          ],
+          "projects": [
+            "Red team engagement",
+            "SOC automation",
+            "Open-source security tool"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "OSCP",
+            "CISSP"
+          ]
+        }
+      },
+      "icon": "\ud83d\udd12"
+    },
+    {
+      "id": "ml_engineer",
+      "title": "Machine Learning Engineer",
+      "description": "Build and deploy scalable ML systems, optimize models, and bridge research prototypes to production AI.",
+      "category": "technology",
+      "riasec_req": {
+        "R": 7,
+        "I": 9,
+        "A": 5,
+        "S": 2,
+        "E": 3,
+        "C": 5
+      },
+      "big5_req": {
+        "O": 8,
+        "C": 8,
+        "E": 3,
+        "A": 4,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 10,
+        "creative": 6,
+        "verbal": 4
+      },
+      "stage_fit": {
+        "after_10th": 1,
+        "after_12th_sci": 4,
+        "after_12th_com": 1,
+        "after_12th_arts": 1,
+        "in_college": 7,
+        "graduate": 10
+      },
+      "salary_range": "\u20b910L \u2013 \u20b940L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 8,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Python",
+            "Linear algebra",
+            "Probability & statistics"
+          ],
+          "tools": [
+            "NumPy",
+            "Matplotlib",
+            "Jupyter"
+          ],
+          "projects": [
+            "Linear regression from scratch",
+            "Image classifier (MNIST)",
+            "Data pipeline script"
+          ],
+          "duration": "2\u20134 months",
+          "certs": [
+            "DeepLearning.AI ML Specialization"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Deep Learning",
+            "Model evaluation",
+            "Feature engineering"
+          ],
+          "tools": [
+            "PyTorch",
+            "Weights & Biases",
+            "scikit-learn"
+          ],
+          "projects": [
+            "NLP sentiment model",
+            "Recommendation engine",
+            "Time-series forecasting"
+          ],
+          "duration": "4\u20138 months",
+          "certs": [
+            "TensorFlow Developer Certificate"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "MLOps",
+            "Distributed training",
+            "Model optimization"
+          ],
+          "tools": [
+            "Kubeflow",
+            "ONNX",
+            "TensorRT"
+          ],
+          "projects": [
+            "Production ML pipeline",
+            "LLM fine-tuning",
+            "Real-time inference system"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "AWS ML Specialty",
+            "Google ML Engineer"
+          ]
+        }
+      },
+      "icon": "\ud83e\udd16"
+    },
+    {
+      "id": "business_analyst",
+      "title": "Business Analyst",
+      "description": "Bridge business needs and technology by analyzing processes, gathering requirements, and recommending improvements.",
+      "category": "business",
+      "riasec_req": {
+        "R": 3,
+        "I": 7,
+        "A": 3,
+        "S": 5,
+        "E": 6,
+        "C": 7
+      },
+      "big5_req": {
+        "O": 6,
+        "C": 8,
+        "E": 6,
+        "A": 6,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 7,
+        "creative": 4,
+        "verbal": 8
+      },
+      "stage_fit": {
+        "after_10th": 2,
+        "after_12th_sci": 5,
+        "after_12th_com": 7,
+        "after_12th_arts": 3,
+        "in_college": 8,
+        "graduate": 10
+      },
+      "salary_range": "\u20b94L \u2013 \u20b915L",
+      "growth_outlook": "Moderate",
+      "pune_relevance": 8,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Business fundamentals",
+            "Excel analytics",
+            "Requirements gathering"
+          ],
+          "tools": [
+            "Excel",
+            "Visio",
+            "JIRA"
+          ],
+          "projects": [
+            "Process flow documentation",
+            "SWOT analysis report",
+            "Requirements specification"
+          ],
+          "duration": "1\u20133 months",
+          "certs": [
+            "IIBA ECBA"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "SQL",
+            "Data visualization",
+            "Agile methodology"
+          ],
+          "tools": [
+            "Power BI",
+            "Tableau",
+            "Confluence"
+          ],
+          "projects": [
+            "Dashboard creation",
+            "Business case analysis",
+            "Stakeholder presentation"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "PMI-PBA"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Strategic analysis",
+            "Change management",
+            "Domain expertise"
+          ],
+          "tools": [
+            "SAP",
+            "Salesforce",
+            "Think-Cell"
+          ],
+          "projects": [
+            "Digital transformation plan",
+            "Enterprise solution design",
+            "ROI analysis framework"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "CBAP"
+          ]
+        }
+      },
+      "icon": "\ud83d\udcc8"
+    },
+    {
+      "id": "cloud_architect",
+      "title": "Cloud Architect",
+      "description": "Design and oversee cloud infrastructure, ensure scalability, security, and cost optimization of deployments.",
+      "category": "technology",
+      "riasec_req": {
+        "R": 8,
+        "I": 7,
+        "A": 3,
+        "S": 3,
+        "E": 5,
+        "C": 7
+      },
+      "big5_req": {
+        "O": 6,
+        "C": 8,
+        "E": 4,
+        "A": 5,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 8,
+        "creative": 4,
+        "verbal": 5
+      },
+      "stage_fit": {
+        "after_10th": 1,
+        "after_12th_sci": 3,
+        "after_12th_com": 1,
+        "after_12th_arts": 1,
+        "in_college": 6,
+        "graduate": 10
+      },
+      "salary_range": "\u20b912L \u2013 \u20b945L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 9,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Networking",
+            "Linux administration",
+            "Cloud concepts"
+          ],
+          "tools": [
+            "AWS Free Tier",
+            "Azure Portal",
+            "SSH"
+          ],
+          "projects": [
+            "Deploy a static site on S3",
+            "VM provisioning",
+            "VPC configuration"
+          ],
+          "duration": "2\u20134 months",
+          "certs": [
+            "AWS Cloud Practitioner"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Infrastructure as Code",
+            "Containerization",
+            "Monitoring"
+          ],
+          "tools": [
+            "Terraform",
+            "Docker",
+            "Prometheus"
+          ],
+          "projects": [
+            "Multi-tier app deployment",
+            "CI/CD pipeline",
+            "Auto-scaling setup"
+          ],
+          "duration": "4\u20138 months",
+          "certs": [
+            "AWS Solutions Architect Associate"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Multi-cloud strategy",
+            "Security architecture",
+            "Cost optimization"
+          ],
+          "tools": [
+            "Kubernetes",
+            "Ansible",
+            "CloudFormation"
+          ],
+          "projects": [
+            "Enterprise migration plan",
+            "Disaster recovery system",
+            "FinOps implementation"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "AWS Solutions Architect Professional",
+            "Google Cloud Architect"
+          ]
+        }
+      },
+      "icon": "\u2601\ufe0f"
+    },
+    {
+      "id": "digital_marketing",
+      "title": "Digital Marketing Strategist",
+      "description": "Develop and execute marketing campaigns, leverage analytics for optimization, and drive brand growth across channels.",
+      "category": "business",
+      "riasec_req": {
+        "R": 2,
+        "I": 4,
+        "A": 7,
+        "S": 6,
+        "E": 8,
+        "C": 4
+      },
+      "big5_req": {
+        "O": 7,
+        "C": 6,
+        "E": 8,
+        "A": 6,
+        "N": 5
+      },
+      "aptitude_req": {
+        "logical": 5,
+        "creative": 8,
+        "verbal": 8
+      },
+      "stage_fit": {
+        "after_10th": 3,
+        "after_12th_sci": 4,
+        "after_12th_com": 7,
+        "after_12th_arts": 8,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b93L \u2013 \u20b915L",
+      "growth_outlook": "High",
+      "pune_relevance": 7,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Social media basics",
+            "Content writing",
+            "SEO fundamentals"
+          ],
+          "tools": [
+            "Canva",
+            "Google Analytics",
+            "WordPress"
+          ],
+          "projects": [
+            "Social media calendar",
+            "Blog SEO audit",
+            "Personal brand page"
+          ],
+          "duration": "1\u20132 months",
+          "certs": [
+            "Google Digital Marketing"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "SEM/PPC",
+            "Email marketing",
+            "Analytics"
+          ],
+          "tools": [
+            "Google Ads",
+            "Mailchimp",
+            "SEMrush"
+          ],
+          "projects": [
+            "Ad campaign for local biz",
+            "Email funnel design",
+            "Competitor keyword analysis"
+          ],
+          "duration": "2\u20135 months",
+          "certs": [
+            "HubSpot Inbound Marketing"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Growth hacking",
+            "Marketing automation",
+            "Brand strategy"
+          ],
+          "tools": [
+            "HubSpot",
+            "Marketo",
+            "Mixpanel"
+          ],
+          "projects": [
+            "Full funnel growth strategy",
+            "Attribution modeling",
+            "Brand repositioning plan"
+          ],
+          "duration": "5\u201310 months",
+          "certs": [
+            "Google Ads Certification"
+          ]
+        }
+      },
+      "icon": "\ud83d\udcf1"
+    },
+    {
+      "id": "research_scientist",
+      "title": "Research Scientist",
+      "description": "Conduct original research to advance knowledge, design experiments, analyze results, and publish findings.",
+      "category": "science",
+      "riasec_req": {
+        "R": 5,
+        "I": 9,
+        "A": 6,
+        "S": 3,
+        "E": 2,
+        "C": 4
+      },
+      "big5_req": {
+        "O": 9,
+        "C": 7,
+        "E": 3,
+        "A": 5,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 9,
+        "creative": 7,
+        "verbal": 7
+      },
+      "stage_fit": {
+        "after_10th": 2,
+        "after_12th_sci": 6,
+        "after_12th_com": 1,
+        "after_12th_arts": 2,
+        "in_college": 8,
+        "graduate": 10
+      },
+      "salary_range": "\u20b95L \u2013 \u20b920L",
+      "growth_outlook": "Moderate",
+      "pune_relevance": 6,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Research methodology",
+            "Scientific writing",
+            "Literature review"
+          ],
+          "tools": [
+            "Google Scholar",
+            "Zotero",
+            "LaTeX"
+          ],
+          "projects": [
+            "Literature survey paper",
+            "Replication study",
+            "Research proposal draft"
+          ],
+          "duration": "2\u20134 months",
+          "certs": []
+        },
+        "intermediate": {
+          "skills": [
+            "Experimental design",
+            "Statistical analysis",
+            "Peer review"
+          ],
+          "tools": [
+            "R/SPSS",
+            "MATLAB",
+            "Overleaf"
+          ],
+          "projects": [
+            "Original experiment + paper",
+            "Conference presentation",
+            "Grant proposal"
+          ],
+          "duration": "4\u20138 months",
+          "certs": [
+            "CITI Research Ethics"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Grant writing",
+            "Lab management",
+            "Publication strategy"
+          ],
+          "tools": [
+            "Lab equipment",
+            "HPC clusters",
+            "Bioinformatics tools"
+          ],
+          "projects": [
+            "Multi-author publication",
+            "Patent filing",
+            "Research lab setup"
+          ],
+          "duration": "12+ months",
+          "certs": []
+        }
+      },
+      "icon": "\ud83d\udd2c"
+    },
+    {
+      "id": "nurse_healthcare",
+      "title": "Healthcare Professional / Nurse",
+      "description": "Provide patient care, assist in medical procedures, and contribute to health outcomes in clinical settings.",
+      "category": "healthcare",
+      "riasec_req": {
+        "R": 6,
+        "I": 5,
+        "A": 2,
+        "S": 9,
+        "E": 3,
+        "C": 5
+      },
+      "big5_req": {
+        "O": 5,
+        "C": 8,
+        "E": 5,
+        "A": 9,
+        "N": 5
+      },
+      "aptitude_req": {
+        "logical": 5,
+        "creative": 3,
+        "verbal": 7
+      },
+      "stage_fit": {
+        "after_10th": 5,
+        "after_12th_sci": 9,
+        "after_12th_com": 2,
+        "after_12th_arts": 2,
+        "in_college": 8,
+        "graduate": 7
+      },
+      "salary_range": "\u20b93L \u2013 \u20b912L",
+      "growth_outlook": "High",
+      "pune_relevance": 8,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Basic patient care",
+            "Medical terminology",
+            "First aid"
+          ],
+          "tools": [
+            "BP monitor",
+            "Medical records",
+            "Anatomy atlas"
+          ],
+          "projects": [
+            "Hospital observation report",
+            "Patient care plan",
+            "Health awareness poster"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "GDA (General Duty Assistant)"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Clinical procedures",
+            "Pharmacology basics",
+            "EMR systems"
+          ],
+          "tools": [
+            "EHR software",
+            "Diagnostic tools",
+            "IV setup"
+          ],
+          "projects": [
+            "Patient case study",
+            "Community health drive",
+            "Nursing care protocol"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "ANM/GNM Nursing"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Specialized care",
+            "Critical care",
+            "Healthcare management"
+          ],
+          "tools": [
+            "ICU equipment",
+            "Telehealth platforms",
+            "Research databases"
+          ],
+          "projects": [
+            "Clinical research participation",
+            "Health policy brief",
+            "Training module creation"
+          ],
+          "duration": "12\u201324 months",
+          "certs": [
+            "BSc Nursing",
+            "MSc Nursing"
+          ]
+        }
+      },
+      "icon": "\ud83c\udfe5"
+    },
+    {
+      "id": "management_consultant",
+      "title": "Management Consultant",
+      "description": "Advise organizations on strategy, operations, and transformation through structured analysis and frameworks.",
+      "category": "business",
+      "riasec_req": {
+        "R": 2,
+        "I": 7,
+        "A": 4,
+        "S": 6,
+        "E": 8,
+        "C": 5
+      },
+      "big5_req": {
+        "O": 7,
+        "C": 8,
+        "E": 8,
+        "A": 6,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 8,
+        "creative": 5,
+        "verbal": 9
+      },
+      "stage_fit": {
+        "after_10th": 1,
+        "after_12th_sci": 3,
+        "after_12th_com": 5,
+        "after_12th_arts": 3,
+        "in_college": 7,
+        "graduate": 10
+      },
+      "salary_range": "\u20b96L \u2013 \u20b930L",
+      "growth_outlook": "Moderate",
+      "pune_relevance": 6,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Analytical thinking",
+            "PowerPoint mastery",
+            "Market research"
+          ],
+          "tools": [
+            "PowerPoint",
+            "Excel",
+            "Bloomberg"
+          ],
+          "projects": [
+            "Industry analysis report",
+            "Case study solutions",
+            "Company profile deck"
+          ],
+          "duration": "1\u20133 months",
+          "certs": []
+        },
+        "intermediate": {
+          "skills": [
+            "Frameworks (Porter, BCG)",
+            "Financial modeling",
+            "Client management"
+          ],
+          "tools": [
+            "Think-Cell",
+            "Tableau",
+            "Notion"
+          ],
+          "projects": [
+            "Strategy recommendation deck",
+            "Cost optimization study",
+            "Process improvement plan"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "Lean Six Sigma Green Belt"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Engagement leadership",
+            "Thought leadership",
+            "Business development"
+          ],
+          "tools": [
+            "CRM platforms",
+            "BI dashboards",
+            "Consulting frameworks"
+          ],
+          "projects": [
+            "Full consulting engagement",
+            "Published white paper",
+            "New market entry strategy"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "MBA/PGP",
+            "PMP"
+          ]
+        }
+      },
+      "icon": "\ud83c\udfdb\ufe0f"
+    },
+    {
+      "id": "game_developer",
+      "title": "Game Developer",
+      "description": "Create interactive entertainment by combining programming, art direction, and game design principles.",
+      "category": "creative",
+      "riasec_req": {
+        "R": 7,
+        "I": 6,
+        "A": 8,
+        "S": 2,
+        "E": 3,
+        "C": 3
+      },
+      "big5_req": {
+        "O": 9,
+        "C": 6,
+        "E": 4,
+        "A": 4,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 7,
+        "creative": 9,
+        "verbal": 3
+      },
+      "stage_fit": {
+        "after_10th": 4,
+        "after_12th_sci": 7,
+        "after_12th_com": 2,
+        "after_12th_arts": 6,
+        "in_college": 9,
+        "graduate": 9
+      },
+      "salary_range": "\u20b94L \u2013 \u20b920L",
+      "growth_outlook": "Moderate",
+      "pune_relevance": 5,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Game design basics",
+            "2D graphics",
+            "Basic C#/GDScript"
+          ],
+          "tools": [
+            "Godot",
+            "Unity basics",
+            "GIMP"
+          ],
+          "projects": [
+            "Pong clone",
+            "2D platformer",
+            "Simple puzzle game"
+          ],
+          "duration": "2\u20134 months",
+          "certs": [
+            "Unity Essentials"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "3D math",
+            "Physics engines",
+            "Shader programming"
+          ],
+          "tools": [
+            "Unity/Unreal",
+            "Blender",
+            "Photoshop"
+          ],
+          "projects": [
+            "3D adventure game",
+            "Multiplayer prototype",
+            "Mobile game publish"
+          ],
+          "duration": "4\u20138 months",
+          "certs": [
+            "Unity Certified Developer"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Engine internals",
+            "AI systems",
+            "Procedural generation"
+          ],
+          "tools": [
+            "Custom engine",
+            "C++",
+            "Houdini"
+          ],
+          "projects": [
+            "Open-world prototype",
+            "VR experience",
+            "Game jam leadership"
+          ],
+          "duration": "8\u201314 months",
+          "certs": [
+            "Unreal Certified"
+          ]
+        }
+      },
+      "icon": "\ud83c\udfae"
+    },
+    {
+      "id": "biotech_researcher",
+      "title": "Biotechnology Researcher",
+      "description": "Apply biological sciences and engineering to develop products, therapies, and technologies for healthcare and environment.",
+      "category": "science",
+      "riasec_req": {
+        "R": 6,
+        "I": 9,
+        "A": 4,
+        "S": 4,
+        "E": 2,
+        "C": 5
+      },
+      "big5_req": {
+        "O": 8,
+        "C": 8,
+        "E": 3,
+        "A": 5,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 8,
+        "creative": 6,
+        "verbal": 6
+      },
+      "stage_fit": {
+        "after_10th": 2,
+        "after_12th_sci": 8,
+        "after_12th_com": 1,
+        "after_12th_arts": 1,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b94L \u2013 \u20b918L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 7,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Molecular biology",
+            "Lab safety",
+            "Basic bioinformatics"
+          ],
+          "tools": [
+            "Microscope",
+            "Pipettes",
+            "BLAST"
+          ],
+          "projects": [
+            "Lab technique portfolio",
+            "Literature review",
+            "Gene database analysis"
+          ],
+          "duration": "2\u20134 months",
+          "certs": []
+        },
+        "intermediate": {
+          "skills": [
+            "PCR/cloning",
+            "Data analysis in R",
+            "Research design"
+          ],
+          "tools": [
+            "Gene sequencers",
+            "R/Bioconductor",
+            "ELN"
+          ],
+          "projects": [
+            "PCR-based experiment",
+            "Bioinformatics pipeline",
+            "Research poster"
+          ],
+          "duration": "4\u20138 months",
+          "certs": [
+            "Bioinformatics Specialization"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "CRISPR applications",
+            "Clinical trials",
+            "IP/patents"
+          ],
+          "tools": [
+            "CRISPR tools",
+            "Flow cytometry",
+            "Publication tools"
+          ],
+          "projects": [
+            "Novel therapy research",
+            "Patent application",
+            "Journal publication"
+          ],
+          "duration": "12+ months",
+          "certs": [
+            "PhD/MSc programs"
+          ]
+        }
+      },
+      "icon": "\ud83e\uddec"
+    },
+    {
+      "id": "content_strategist",
+      "title": "Content Strategist",
+      "description": "Plan, create, and manage content aligned with business goals. Drive engagement across platforms through storytelling.",
+      "category": "creative",
+      "riasec_req": {
+        "R": 2,
+        "I": 4,
+        "A": 8,
+        "S": 6,
+        "E": 5,
+        "C": 4
+      },
+      "big5_req": {
+        "O": 8,
+        "C": 6,
+        "E": 6,
+        "A": 7,
+        "N": 5
+      },
+      "aptitude_req": {
+        "logical": 4,
+        "creative": 8,
+        "verbal": 9
+      },
+      "stage_fit": {
+        "after_10th": 3,
+        "after_12th_sci": 3,
+        "after_12th_com": 5,
+        "after_12th_arts": 9,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b93L \u2013 \u20b914L",
+      "growth_outlook": "High",
+      "pune_relevance": 6,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Content writing",
+            "SEO basics",
+            "Social media"
+          ],
+          "tools": [
+            "WordPress",
+            "Grammarly",
+            "Canva"
+          ],
+          "projects": [
+            "Start a blog",
+            "SEO audit of a site",
+            "Social media content plan"
+          ],
+          "duration": "1\u20132 months",
+          "certs": [
+            "HubSpot Content Marketing"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Editorial planning",
+            "Analytics",
+            "Brand voice development"
+          ],
+          "tools": [
+            "Ahrefs",
+            "Google Analytics",
+            "ContentCal"
+          ],
+          "projects": [
+            "Content strategy for startup",
+            "Email newsletter series",
+            "Video script writing"
+          ],
+          "duration": "2\u20135 months",
+          "certs": [
+            "Content Marketing Institute"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Content leadership",
+            "Multimedia strategy",
+            "Growth through content"
+          ],
+          "tools": [
+            "CMS platforms",
+            "Video editing suites",
+            "AI writing tools"
+          ],
+          "projects": [
+            "Full content org structure",
+            "Content-led product launch",
+            "Thought leadership series"
+          ],
+          "duration": "5\u201310 months",
+          "certs": []
+        }
+      },
+      "icon": "\u270d\ufe0f"
+    },
+    {
+      "id": "arvr_developer",
+      "title": "AR/VR/XR Developer",
+      "description": "Design and build immersive augmented, virtual, and mixed reality experiences \u2014 blending 3D spatial computing, interaction design, and real-time rendering for next-gen applications in gaming, education, healthcare, and enterprise.",
+      "category": "creative_technology",
+      "riasec_req": {
+        "R": 8,
+        "I": 6,
+        "A": 9,
+        "S": 3,
+        "E": 3,
+        "C": 3
+      },
+      "big5_req": {
+        "O": 9,
+        "C": 6,
+        "E": 4,
+        "A": 4,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 7,
+        "creative": 10,
+        "verbal": 3
+      },
+      "stage_fit": {
+        "after_10th": 3,
+        "after_12th_sci": 6,
+        "after_12th_com": 2,
+        "after_12th_arts": 5,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b96L \u2013 \u20b928L",
+      "growth_outlook": "Very High",
+      "pune_relevance": 6,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "3D fundamentals",
+            "C# / Unity basics",
+            "Spatial thinking"
+          ],
+          "tools": [
+            "Unity",
+            "Blender",
+            "Google Cardboard"
+          ],
+          "projects": [
+            "360\u00b0 photo viewer",
+            "Simple VR room",
+            "AR marker demo"
+          ],
+          "duration": "2\u20134 months",
+          "certs": [
+            "Unity Essentials"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Shader programming",
+            "Interaction design",
+            "Spatial audio"
+          ],
+          "tools": [
+            "Meta Quest SDK",
+            "ARCore/ARKit",
+            "Substance Painter"
+          ],
+          "projects": [
+            "VR escape room",
+            "AR furniture preview app",
+            "MR classroom prototype"
+          ],
+          "duration": "4\u20138 months",
+          "certs": [
+            "Unity Certified Developer",
+            "Meta XR Developer"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Hand/eye tracking",
+            "Multi-user XR",
+            "WebXR",
+            "Haptic feedback"
+          ],
+          "tools": [
+            "Unreal Engine 5",
+            "Vuforia",
+            "MRTK",
+            "OpenXR"
+          ],
+          "projects": [
+            "Multiplayer VR game",
+            "Industrial XR training sim",
+            "Spatial computing open-source tool"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "Unreal Certified",
+            "XR Design Specialization"
+          ]
+        }
+      },
+      "icon": "\ud83e\udd7d"
+    },
+    {
+      "id": "creative_technologist",
+      "title": "Creative Technologist",
+      "description": "Bridge art and technology to build interactive installations, generative art, immersive media, and experimental prototypes \u2014 a fusion of creative coding, physical computing, and visual storytelling.",
+      "category": "creative_technology",
+      "riasec_req": {
+        "R": 7,
+        "I": 5,
+        "A": 10,
+        "S": 3,
+        "E": 4,
+        "C": 2
+      },
+      "big5_req": {
+        "O": 10,
+        "C": 5,
+        "E": 5,
+        "A": 5,
+        "N": 4
+      },
+      "aptitude_req": {
+        "logical": 6,
+        "creative": 10,
+        "verbal": 4
+      },
+      "stage_fit": {
+        "after_10th": 3,
+        "after_12th_sci": 5,
+        "after_12th_com": 2,
+        "after_12th_arts": 7,
+        "in_college": 9,
+        "graduate": 10
+      },
+      "salary_range": "\u20b94L \u2013 \u20b922L",
+      "growth_outlook": "High",
+      "pune_relevance": 5,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Creative coding",
+            "Basic electronics",
+            "Visual design"
+          ],
+          "tools": [
+            "p5.js / Processing",
+            "Arduino",
+            "Figma"
+          ],
+          "projects": [
+            "Generative art sketch",
+            "LED light installation",
+            "Interactive webpage"
+          ],
+          "duration": "1\u20133 months",
+          "certs": []
+        },
+        "intermediate": {
+          "skills": [
+            "Projection mapping",
+            "Sensor integration",
+            "3D modeling"
+          ],
+          "tools": [
+            "TouchDesigner",
+            "Raspberry Pi",
+            "Blender"
+          ],
+          "projects": [
+            "Interactive museum exhibit",
+            "Data-driven art piece",
+            "AR Instagram filter"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "Creative Coding Specialization"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "AI-generative art",
+            "Spatial computing",
+            "Physical computing"
+          ],
+          "tools": [
+            "Stable Diffusion",
+            "Unity/Unreal",
+            "Custom hardware"
+          ],
+          "projects": [
+            "Immersive gallery installation",
+            "AI art exhibition",
+            "Open-source creative tool"
+          ],
+          "duration": "6\u201312 months",
+          "certs": []
+        }
+      },
+      "icon": "\u2728"
+    },
+    {
+      "id": "civil_engineer",
+      "title": "Civil Engineer",
+      "description": "Design and oversee construction of infrastructure \u2014 buildings, roads, bridges, and water systems.",
+      "category": "engineering",
+      "riasec_req": {
+        "R": 9,
+        "I": 7,
+        "A": 3,
+        "S": 3,
+        "E": 4,
+        "C": 6
+      },
+      "big5_req": {
+        "O": 5,
+        "C": 8,
+        "E": 4,
+        "A": 5,
+        "N": 3
+      },
+      "aptitude_req": {
+        "logical": 8,
+        "creative": 4,
+        "verbal": 5
+      },
+      "stage_fit": {
+        "after_10th": 3,
+        "after_12th_sci": 9,
+        "after_12th_com": 1,
+        "after_12th_arts": 1,
+        "in_college": 9,
+        "graduate": 9
+      },
+      "salary_range": "\u20b93L \u2013 \u20b915L",
+      "growth_outlook": "Moderate",
+      "pune_relevance": 7,
+      "roadmap": {
+        "beginner": {
+          "skills": [
+            "Engineering mechanics",
+            "AutoCAD basics",
+            "Surveying"
+          ],
+          "tools": [
+            "AutoCAD",
+            "Excel",
+            "Surveying instruments"
+          ],
+          "projects": [
+            "Simple structure design",
+            "Site survey report",
+            "Material testing lab"
+          ],
+          "duration": "3\u20136 months",
+          "certs": [
+            "AutoCAD Certified User"
+          ]
+        },
+        "intermediate": {
+          "skills": [
+            "Structural analysis",
+            "Project estimation",
+            "BIM"
+          ],
+          "tools": [
+            "STAAD Pro",
+            "Revit",
+            "Primavera"
+          ],
+          "projects": [
+            "Building structural design",
+            "Cost estimation report",
+            "BIM model creation"
+          ],
+          "duration": "6\u201312 months",
+          "certs": [
+            "Revit Certified"
+          ]
+        },
+        "advanced": {
+          "skills": [
+            "Project management",
+            "Sustainability",
+            "Advanced design"
+          ],
+          "tools": [
+            "ETABS",
+            "SAP2000",
+            "GIS"
+          ],
+          "projects": [
+            "Green building design",
+            "Infrastructure master plan",
+            "Construction supervision"
+          ],
+          "duration": "12+ months",
+          "certs": [
+            "PE License",
+            "LEED AP"
+          ]
+        }
+      },
+      "icon": "\ud83c\udfd7\ufe0f"
+    }
+  ],
+  "riasec_labels": {
+    "R": "Realistic",
+    "I": "Investigative",
+    "A": "Artistic",
+    "S": "Social",
+    "E": "Enterprising",
+    "C": "Conventional"
+  },
+  "big5_labels": {
+    "O": "Openness",
+    "C": "Conscientiousness",
+    "E": "Extraversion",
+    "A": "Agreeableness",
+    "N": "Neuroticism"
+  }
+}

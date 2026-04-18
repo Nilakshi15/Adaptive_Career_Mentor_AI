@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Your career intelligence report — RIASEC profile, Big Five traits, CSS-scored recommendations, skill gaps, roadmaps, and Pune institution mapping.">
+    <title>Career Intelligence Report — AI Career Mentor</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
+</head>
+<body>
+
+    <!-- ── Navbar ──────────────────────────────── -->
+    <nav class="navbar scrolled" id="navbar">
+        <div class="nav-inner">
+            <a href="/" class="nav-brand">
+                <span class="brand-icon"></span>
+                <span>AI Career Mentor</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/" class="btn btn-ghost">← Home</a></li>
+                <li><a href="/login" class="btn btn-secondary" style="padding: 8px 20px; font-size: 0.85rem;">Retake Assessment</a></li>
+            
+                </ul>
+        </div>
+    </nav>
+
+    <!-- ── Results Dashboard ───────────────────── -->
+    <div class="result-page container" id="resultPage">
+
+        <!-- Header -->
+        <div class="result-header">
+            <h1>Your Career <span class="gradient-text">Intelligence Report</span></h1>
+            <p>Psychometric analysis using Holland's RIASEC, Big Five OCEAN, and multi-aptitude battery — every recommendation is scored and justified</p>
+        </div>
+
+        <!-- ── RIASEC Radar ───────────────────── -->
+        <div class="glass-card" style="padding: var(--space-2xl); margin-bottom: var(--space-xl);" id="riasecPanel">
+            <h2 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 6px; display: flex; align-items: center; gap: 10px;">
+                 Holland's RIASEC Interest Profile
+            </h2>
+            <p style="color: var(--text-secondary); font-size: 0.88rem; margin-bottom: var(--space-xl);">Your interest distribution across six vocational personality types</p>
+            <div id="riasecChart" style="display: flex; align-items: flex-end; gap: 12px; height: 200px; padding: 0 20px;"></div>
+        </div>
+
+        <!-- ── Big Five + Aptitude Cards ──────── -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-lg); margin-bottom: var(--space-xl);" id="profilePanels">
+            <!-- Big Five Panel -->
+            <div class="glass-card" style="padding: var(--space-xl);" id="big5Panel">
+                <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: var(--space-lg); display: flex; align-items: center; gap: 8px;">
+                     Big Five Personality
+                </h3>
+                <div id="big5Chart"></div>
+            </div>
+            <!-- Aptitude + Behavioral Panel -->
+            <div class="glass-card" style="padding: var(--space-xl);" id="aptPanel">
+                <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: var(--space-lg); display: flex; align-items: center; gap: 8px;">
+                     Aptitude & Behavioral
+                </h3>
+                <div id="aptChart"></div>
+            </div>
+        </div>
+
+        <!-- ── Career Results ─────────────────── -->
+        <div class="career-results" id="careerResults">
+            <div class="section-header" style="text-align: left; margin-bottom: var(--space-xl);">
+                <span class="overline">CSS-Ranked Recommendations</span>
+                <h2>Top Career <span class="gradient-text">Pathways</span></h2>
+                <p style="color: var(--text-secondary); font-size: 0.9rem; margin-top: 4px;">Threshold ≥70 = strong fit. Click any card to expand roadmap, skill gaps, and Pune institutions.</p>
+            </div>
+            <div id="careerCards"></div>
+        </div>
+
+        <!-- ── All Scores ─────────────────────── -->
+        <div class="glass-card" style="padding: var(--space-2xl); margin-bottom: var(--space-xl);" id="allScoresPanel">
+            <h2 style="font-size: 1.3rem; font-weight: 700; margin-bottom: var(--space-lg); display: flex; align-items: center; gap: 10px;">
+                 Complete CSS Breakdown
+            </h2>
+            <div id="allScoresChart"></div>
+        </div>
+
+        <!-- ── Community Insights ─────────────── -->
+        <div class="glass-card community-panel" id="communityPanel">
+            <h2>🌐 Community Insights</h2>
+            <p style="color: var(--text-secondary); font-size: 0.9rem; margin-bottom: var(--space-xl);">
+                Anonymized, aggregated patterns from all assessment users
+            </p>
+            <div class="community-grid" id="communityGrid"></div>
+        </div>
+
+        <!-- ── Metadata ──────────────────────── -->
+        <div style="text-align: center; padding: var(--space-2xl) 0; color: var(--text-muted); font-size: 0.8rem;" id="metaFooter"></div>
+    </div>
+
+    <!-- ── No Data State ───────────────────────── -->
+    <div class="result-page container" id="noDataState" style="display: none; text-align: center; padding-top: 200px;">
+        <h2 style="font-size: 1.8rem; margin-bottom: var(--space-md);">No Analysis Data Found</h2>
+        <p style="color: var(--text-secondary); margin-bottom: var(--space-xl);">Please complete the assessment first to see your results.</p>
+        <a href="/login" class="btn btn-primary btn-lg"><span></span> Start Assessment</a>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Adaptive AI Mentor System v2.0 — Holland RIASEC │ Big Five OCEAN │ Multi-Aptitude │ Pune Intelligence</p>
+        </div>
+    </footer>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
